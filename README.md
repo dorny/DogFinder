@@ -20,3 +20,5 @@ The app uses mvvm clean architecture for scalability and easy testing
 
 ## Download
 - You can find the latest generated apk [here.](/apk)
+
+TEST
